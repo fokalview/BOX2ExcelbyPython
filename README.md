@@ -54,10 +54,6 @@ This tool runs 100% locally. It doesn't make API calls, connect to external serv
 
 This is a time-saving side project for internal use, inspired by repetitive work. Keep it light, local, and fast.
 
-## 👏 Credits
-
-Inspired by [DatadudeDev/pycache](https://github.com/DatadudeDev/pycache) — shoutout for clean, honest tooling.
-
 ---
 
 Made with ☕, frustration, and automation love.
